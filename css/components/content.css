@@ -1,0 +1,23 @@
+.container{
+  margin: 0 auto;
+  position: absolute;
+  top: 160px;
+}
+
+.title-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.topic {
+  font-weight: lighter;
+  font-size: 20px;
+  flex: 0 0 auto;
+  align-self: center;
+/*  position: absolute;
+  top: 350px;
+  left: 600px;*/
+  /*display: inline-block; */
+}
